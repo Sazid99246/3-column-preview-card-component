@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Sazid99246/3-column-preview-card-component)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://sazid99246.github.io/3-column-preview-card-component/)
 
 ## My process
 
